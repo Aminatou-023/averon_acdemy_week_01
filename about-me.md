@@ -1,5 +1,5 @@
 About Me
-My name is Amina Tijjani Dambazau a 300-level Computer Science student from Bayero University kano.
+My name is Amina Dambazau tijjani a 300-level Computer Science student from Bayero University kano.
 
 I have a basic understanding of programming and web development, and I am currently working on improving my practical skills in software development.
 
